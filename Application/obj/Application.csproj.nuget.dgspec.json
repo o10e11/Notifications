@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Application\\Application.csproj": {}
+    "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Application\\Application.csproj": {
+    "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Jakub Muszynski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Domain\\Domain.csproj"
+              "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Domain\\Domain.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Domain\\Domain.csproj": {
+    "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Jakub Muszynski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jakub Muszynski\\source\\repos\\TransferGoNotifications.API\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Jakub Muszynski\\Desktop\\New folder\\Notifications\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
